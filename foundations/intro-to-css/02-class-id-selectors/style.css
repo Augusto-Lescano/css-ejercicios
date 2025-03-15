@@ -1,0 +1,19 @@
+.numero_impar{
+  background-color: rgb(255, 198, 198);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cool_class {
+  font-size: 24px;
+}
+
+#blue_id{
+  color: rgb(0,0,250);
+  font-size: 36px;
+}
+
+#green_id{
+  background-color:rgb(191, 247, 191);
+  font-size:24px;
+  font-weight: 700;
+}
